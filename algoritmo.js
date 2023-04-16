@@ -1,4 +1,4 @@
-document.querySelector().innerHTML= '
+document.querySelector("body").innerHTML = `
 <details>
         <summary>Titulo de informacion importante</summary>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzuq37ZmH5UtLmLozf_YjqjdrZYWSImd1EsIcbTP1Tw&s "
@@ -9,4 +9,4 @@ document.querySelector().innerHTML= '
             moderna, y, para muchos expertos, es el más rápido de la historia​</p>
         <a href="https://www.youtube.com/watch?v=CI_arNEolkY">ver video</a>
     </details>
-';
+`;
